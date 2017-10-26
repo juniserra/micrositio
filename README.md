@@ -176,32 +176,7 @@
             width: 937px;
             min-height: 80px;
             top: 242px;
-            left: 17px;
-        }
-        
-        .silex-id-1483131519736-31 {
-            top: 708px;
-            left: 0px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1483131519736-31 {
-                top: 401px;
-                left: 0px;
-            }
-        }
-        
-        .silex-id-1483131519736-30 {
-            min-height: 329px;
-            background-color: transparent;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1483131519736-30 {
-                min-height: 415px;
-            }
+            left: 32px;
         }
         
         .silex-id-1483130397853-8 {
@@ -430,7 +405,7 @@
     <meta name="publicationPath" content="/api/1.0/github/exec/put//silex-templates/wip/clean-square">
 
     <script class="silex-json-styles" type="text/javascript">
-        [{"desktop":{"silex-id-1436036524732-32":{"cursor":"auto","background-image":"","background-color":"rgb(255, 255, 255)"},"silex-id-1436036524531-30":{"width":"419px","top":"106px","left":"90px","background-color":"transparent","min-height":"141px"},"silex-id-1436036524431-29":{"width":"117px","top":"3px","left":"2px","min-height":"117px"},"silex-id-1436036524330-28":{"width":"293px","top":"16px","left":"119px","min-height":"95px"},"silex-id-1436036524129-26":{"width":"966px","top":"700px","left":"1px","background-color":"transparent","min-height":"528px"},"silex-id-1436036524028-25":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1436036523928-24":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1436036523827-23":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036523727-22":{"width":"362px","top":"235px","left":"61px","min-height":"86px"},"silex-id-1436036523626-21":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1436036523526-20":{"width":"100px","top":"1278px","left":"0px","background-color":"transparent","min-height":"528px"},"silex-id-1436036523425-19":{"width":"368px","top":"127px","left":"40px","min-height":"256px"},"silex-id-1436036523325-18":{"width":"100px","top":"16px","left":"0px","min-height":"26px"},"silex-id-1436036523224-17":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036523124-16":{"width":"362px","top":"235px","left":"61px","min-height":"86px"},"silex-id-1436036523024-15":{"width":"415px","top":"166px","left":"512px","min-height":"259px"},"silex-id-1436036522923-14":{"width":"100px","top":"1864px","background-color":"transparent","min-height":"528px"},"silex-id-1436036522823-13":{"width":"368px","top":"130px","left":"43px","min-height":"256px"},"silex-id-1436036522722-12":{"width":"100px","top":"16px","left":"0px","min-height":"26px"},"silex-id-1436036522622-11":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036522521-10":{"width":"362px","top":"240px","left":"61px","min-height":"86px"},"silex-id-1436036522421-9":{"width":"415px","top":"172px","left":"512px","min-height":"299px"},"silex-id-1436036522320-8":{"width":"100px","top":"2405px","min-height":"100px"},"silex-id-1436036522220-7":{"width":"238px","top":"17px","min-height":"40px","left":"367px"},"silex-id-1436036522119-6":{"width":"383px","top":"108px","left":"536px","background-color":"transparent","min-height":"100px"},"silex-id-1436036522018-5":{"width":"90px","top":"20px","left":"142px","min-height":"33px"},"silex-id-1436036521917-4":{"width":"90px","top":"20px","left":"238px","min-height":"33px"},"silex-id-1436036521816-3":{"width":"100px","top":"300px","left":"1px","background-color":"transparent","min-height":"528px"},"silex-id-1436036521716-2":{"width":"389px","top":"59px","left":"539px","min-height":"325px"},"silex-id-1436036521615-1":{"width":"400px","top":"51px","left":"111px","background-color":"transparent","min-height":"396px"},"silex-id-1447077029886-3":{"width":"108px","top":"0px","left":"1559px","min-height":"113px"},"silex-id-1483130355289-6":{"min-height":"331px","background-color":"transparent"},"silex-id-1483130355289-7":{"top":"10px","left":"0px"},"silex-id-1483130397853-8":{"top":"1220px","left":"0px"},"silex-id-1483130397854-9":{"min-height":"525px","background-color":"transparent"},"silex-id-1483130400381-10":{"top":"2236px","left":"0px"},"silex-id-1483130400382-11":{"min-height":"82px","background-color":"transparent"},"silex-id-1483130857943-12":{"min-height":"20px","background-color":"transparent"},"silex-id-1483130857943-13":{"top":"100px","left":"NaNpx","background-color":"rgba(180,229,232,1)"},"silex-id-1483131239726-14":{"top":"572px","left":"NaNpx"},"silex-id-1483131239727-15":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131239727-16":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1483131239727-17":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1483131239727-18":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1483131242514-19":{"top":"572px","left":"NaNpx"},"silex-id-1483131242514-20":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131242515-21":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1483131242515-22":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1483131242515-23":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1483131410736-25":{"top":"259px","left":"NaNpx"},"silex-id-1483131410737-26":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131519736-30":{"min-height":"329px","background-color":"transparent"},"silex-id-1483131519736-31":{"top":"708px","left":"0px"},"silex-id-1509039518908-1":{"width":"937px","min-height":"80px","top":"242px","left":"17px"}},"mobile":{"silex-id-1483131410737-26":{"top":"0px","left":"12px","width":"445px","min-height":"791px"},"silex-id-1483131410736-25":{"top":"401px","left":"0px"},"silex-id-1483130397853-8":{"top":"730px","left":"0px"},"silex-id-1483131519736-31":{"top":"401px","left":"0px"},"silex-id-1483130355289-7":{"top":"70px","left":"0px"},"silex-id-1483131239726-14":{"top":"1470px","left":"0px"},"silex-id-1483131242514-19":{"top":"2205px","left":"0px"},"silex-id-1483131242515-23":{"top":"384px","left":"15px","width":"415px","min-height":"314px"},"silex-id-1483130355289-6":{"min-height":"218px"},"silex-id-1483131519736-30":{"min-height":"415px"},"silex-id-1483130397854-9":{"min-height":"767px"},"silex-id-1483131239727-15":{"min-height":"735px"},"silex-id-1483131242514-20":{"min-height":"718px"}},"componentData":{}}]
+        [{"desktop":{"silex-id-1436036524732-32":{"cursor":"auto","background-image":"","background-color":"rgb(255, 255, 255)"},"silex-id-1436036524531-30":{"width":"419px","top":"106px","left":"90px","background-color":"transparent","min-height":"141px"},"silex-id-1436036524431-29":{"width":"117px","top":"3px","left":"2px","min-height":"117px"},"silex-id-1436036524330-28":{"width":"293px","top":"16px","left":"119px","min-height":"95px"},"silex-id-1436036524129-26":{"width":"966px","top":"700px","left":"1px","background-color":"transparent","min-height":"528px"},"silex-id-1436036524028-25":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1436036523928-24":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1436036523827-23":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036523727-22":{"width":"362px","top":"235px","left":"61px","min-height":"86px"},"silex-id-1436036523626-21":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1436036523526-20":{"width":"100px","top":"1278px","left":"0px","background-color":"transparent","min-height":"528px"},"silex-id-1436036523425-19":{"width":"368px","top":"127px","left":"40px","min-height":"256px"},"silex-id-1436036523325-18":{"width":"100px","top":"16px","left":"0px","min-height":"26px"},"silex-id-1436036523224-17":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036523124-16":{"width":"362px","top":"235px","left":"61px","min-height":"86px"},"silex-id-1436036523024-15":{"width":"415px","top":"166px","left":"512px","min-height":"259px"},"silex-id-1436036522923-14":{"width":"100px","top":"1864px","background-color":"transparent","min-height":"528px"},"silex-id-1436036522823-13":{"width":"368px","top":"130px","left":"43px","min-height":"256px"},"silex-id-1436036522722-12":{"width":"100px","top":"16px","left":"0px","min-height":"26px"},"silex-id-1436036522622-11":{"width":"242px","top":"166px","left":"120px","min-height":"58px"},"silex-id-1436036522521-10":{"width":"362px","top":"240px","left":"61px","min-height":"86px"},"silex-id-1436036522421-9":{"width":"415px","top":"172px","left":"512px","min-height":"299px"},"silex-id-1436036522320-8":{"width":"100px","top":"2405px","min-height":"100px"},"silex-id-1436036522220-7":{"width":"238px","top":"17px","min-height":"40px","left":"367px"},"silex-id-1436036522119-6":{"width":"383px","top":"108px","left":"536px","background-color":"transparent","min-height":"100px"},"silex-id-1436036522018-5":{"width":"90px","top":"20px","left":"142px","min-height":"33px"},"silex-id-1436036521917-4":{"width":"90px","top":"20px","left":"238px","min-height":"33px"},"silex-id-1436036521816-3":{"width":"100px","top":"300px","left":"1px","background-color":"transparent","min-height":"528px"},"silex-id-1436036521716-2":{"width":"389px","top":"59px","left":"539px","min-height":"325px"},"silex-id-1436036521615-1":{"width":"400px","top":"51px","left":"111px","background-color":"transparent","min-height":"396px"},"silex-id-1447077029886-3":{"width":"108px","top":"0px","left":"1559px","min-height":"113px"},"silex-id-1483130355289-6":{"min-height":"331px","background-color":"transparent"},"silex-id-1483130355289-7":{"top":"10px","left":"0px"},"silex-id-1483130397853-8":{"top":"1220px","left":"0px"},"silex-id-1483130397854-9":{"min-height":"525px","background-color":"transparent"},"silex-id-1483130400381-10":{"top":"2236px","left":"0px"},"silex-id-1483130400382-11":{"min-height":"82px","background-color":"transparent"},"silex-id-1483130857943-12":{"min-height":"20px","background-color":"transparent"},"silex-id-1483130857943-13":{"top":"100px","left":"NaNpx","background-color":"rgba(180,229,232,1)"},"silex-id-1483131239726-14":{"top":"572px","left":"NaNpx"},"silex-id-1483131239727-15":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131239727-16":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1483131239727-17":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1483131239727-18":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1483131242514-19":{"top":"572px","left":"NaNpx"},"silex-id-1483131242514-20":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131242515-21":{"width":"368px","top":"134px","left":"46px","min-height":"256px"},"silex-id-1483131242515-22":{"width":"978px","top":"22px","left":"1px","min-height":"26px"},"silex-id-1483131242515-23":{"width":"415px","top":"129px","left":"513px","min-height":"302px"},"silex-id-1483131410736-25":{"top":"259px","left":"NaNpx"},"silex-id-1483131410737-26":{"min-height":"525px","background-color":"transparent"},"silex-id-1483131519736-30":{"min-height":"329px","background-color":"transparent"},"silex-id-1509039518908-1":{"width":"937px","min-height":"80px","top":"242px","left":"32px"}},"mobile":{"silex-id-1483131410737-26":{"top":"0px","left":"12px","width":"445px","min-height":"791px"},"silex-id-1483131410736-25":{"top":"401px","left":"0px"},"silex-id-1483130397853-8":{"top":"730px","left":"0px"},"silex-id-1483130355289-7":{"top":"70px","left":"0px"},"silex-id-1483131239726-14":{"top":"1470px","left":"0px"},"silex-id-1483131242514-19":{"top":"2205px","left":"0px"},"silex-id-1483131242515-23":{"top":"384px","left":"15px","width":"415px","min-height":"314px"},"silex-id-1483130355289-6":{"min-height":"218px"},"silex-id-1483131519736-30":{"min-height":"415px"},"silex-id-1483130397854-9":{"min-height":"767px"},"silex-id-1483131239727-15":{"min-height":"735px"},"silex-id-1483131242514-20":{"min-height":"718px"}},"componentData":{}}]
     </script>
 
     <meta data-silex-viewport="" content="width=device-width, initial-scale=1, maximum-scale=2.2" name="viewport">
@@ -482,16 +457,16 @@
 
 
 
-    <style id="current-page-style">
-        .page-contact {
-            display: inherit;
-        }
-    </style>
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Archicofradia de San Juan Bautista - Panuco - Zacatecas">
     <meta name="og:title" content="Archicofradia de San Juan Bautista - Panuco - Zacatecas">
     <meta name="twitter:description" content="lo ultimo sobre la casa albergue">
     <meta name="og:description" content="lo ultimo sobre la casa albergue">
+    <style id="current-page-style">
+        .page-home {
+            display: inherit;
+        }
+    </style>
     <!-- Silex HEAD tag do not remove -->
     <!-- End of Silex HEAD tag do not remove -->
 </head>
@@ -502,7 +477,7 @@
     </div>
     <div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1483130355289-7 section-element" data-silex-id="silex-id-1483130355289-7">
         <div data-silex-type="container" class="editable-style silex-element-content website-width silex-id-1483130355289-6 silex-container-content container-element prevent-draggable" data-silex-id="silex-id-1483130355289-6">
-            <div data-silex-type="container" class="editable-style container-element silex-id-1436036524531-30" data-silex-href="#!page-home" data-silex-id="silex-id-1436036524531-30">
+            <div data-silex-type="container" class="editable-style container-element silex-id-1436036524531-30 page-link-active" data-silex-href="#!page-home" data-silex-id="silex-id-1436036524531-30">
                 <div data-silex-type="image" class="editable-style image-element silex-id-1436036524431-29" data-silex-id="silex-id-1436036524431-29">
                     <img src="../../../../../../../libs/templates/silex-templates/clean-square/assets/cc.png" class="silex-element-content">
                 </div>
@@ -513,12 +488,12 @@
                 </div>
             </div>
             <div data-silex-type="container" class="editable-style container-element link-menu silex-id-1436036522119-6 hide-on-mobile" data-silex-id="silex-id-1436036522119-6">
-                <div data-silex-type="text" class="editable-style text-element silex-id-1436036522018-5" data-silex-href="#!page-home" data-silex-id="silex-id-1436036522018-5">
+                <div data-silex-type="text" class="editable-style text-element silex-id-1436036522018-5 page-link-active" data-silex-href="#!page-home" data-silex-id="silex-id-1436036522018-5">
                     <div class="silex-element-content normal">
                         <div style="text-align: center;">HOME</div>
                     </div>
                 </div>
-                <div data-silex-type="text" class="editable-style text-element silex-id-1436036521917-4 page-link-active" data-silex-href="#!page-contact" data-silex-id="silex-id-1436036521917-4">
+                <div data-silex-type="text" class="editable-style text-element silex-id-1436036521917-4" data-silex-href="#!page-contact" data-silex-id="silex-id-1436036521917-4">
                     <div class="silex-element-content normal">
                         <div style="text-align: center;">CONTACTO</div>
                     </div>
@@ -532,11 +507,7 @@
             </div>
         </div>
     </div>
-    <div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1483131519736-31 section-element page-home paged-element" data-silex-id="silex-id-1483131519736-31">
-        <div data-silex-type="container" class="editable-style silex-element-content website-width silex-id-1483131519736-30 silex-container-content container-element prevent-draggable" data-silex-id="silex-id-1483131519736-30">
 
-        </div>
-    </div>
 
 
 
@@ -568,7 +539,7 @@
                         <p class="normal">
                             <br>
                         </p>
-                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="">MORE</a></h3>
+                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="page-link-active">MORE</a></h3>
                     </div>
                 </div>
             </div>
@@ -611,7 +582,7 @@
 
     <div class="silex-pages">
         <div class="menu-button editable-style silex-id-hamburger-menu image-element page-page-1 paged-element prevent-draggable prevent-resizable" data-silex-id="silex-id-hamburger-menu" data-silex-type="image"><img class="silex-element-content" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAoCAYAAAC8cqlMAAAB5UlEQVR42u2ZPWvCUBSGM+UfFO3e3dLu/QN+oKj4EUXRQREEJYgoiCAu6qCogyDo7iJ21UUaKqEgCC4iiEMGB3UVgsnpTWj/wfVK2nvhGbKEPJyT996TMMzPGg6H5mKx+GgkyuWyeTQasb8OTDwef4tEIp8+n+/LYIjJZJJHQiwzm81M6OLDarWqNpsNjEYgEJCy2ewT0+/3TagighElNFAnQT6ft1ARKkJFqMgfFvF4PFpuEwFtdrcRqVarIIoirFYrIiyXSxiPx+B2u/GJBINBuF6vQHopigK1Wg2fCMdxcLlciIuoqgqNRgOfiN1uB3Qwg91uB8fjkQiHwwEmkwne1qLxS0VuKKJle71eh06nQ4Rmswk8z+MVcTqdsNlsQJZlotF7Pp8hk8ngE4lGo/qN7xG/vV4Pb0Xm8zlxkdPpBGgMx/+yJxIJKBQKRMjlcuBwOGhq/Q+RcDgMsViMCFrAuFwu/CKDwQC22y1IkkSE/X4PgiDo+xc2Ea0S9zjGa/Hb7Xbxifj9fj0K7yFSqVTwtlY6nYbpdKpPiSRYLBbQarX0PYymFhWhIlSEilCRW6GdyUqlkoVZr9dsKpXiOY6TtW+7BkNBz/7ebrcf9L+6Xq+XRYPMMyrTq5EIhUIvaAjTJb4BBNQ2yhnth0wAAAAASUVORK5CYII="
-                alt="open mobile menu"></div><a id="page-home" data-silex-type="page" class="page-element">Home</a><a id="page-contact" data-silex-type="page" class="page-element page-link-active">Contact</a></div>
+                alt="open mobile menu"></div><a id="page-home" data-silex-type="page" class="page-element page-link-active">Home</a><a id="page-contact" data-silex-type="page" class="page-element">Contact</a></div>
 
 
 
@@ -654,7 +625,7 @@
                         <p class="normal">
                             <br>
                         </p>
-                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="">MORE</a></h3>
+                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="page-link-active">MORE</a></h3>
                     </div>
                 </div>
             </div>
@@ -689,7 +660,7 @@
                         <p class="normal">
                             <br>
                         </p>
-                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="">MORE</a></h3>
+                        <h3 style="text-align: right;" class="heading3"><a href="#!page-home" class="page-link-active">MORE</a></h3>
                     </div>
                 </div>
             </div>
